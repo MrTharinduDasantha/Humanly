@@ -1,0 +1,30 @@
+.employee-page {
+  min-height: calc(100vh - 70px);
+  background: linear-gradient(135deg, #f8f9fa 0%, #eef2f7 100%);
+}
+
+.employee-page .card {
+  border-radius: 20px;
+}
+
+.employee-page .table tbody tr:hover {
+  background-color: rgba(13, 110, 253, 0.04);
+}
+
+.employee-thumb {
+  width: 56px;
+  height: 56px;
+  object-fit: cover;
+  border-radius: 50%;
+  border: 2px solid #dee2e6;
+}
+
+.employee-preview {
+  width: 120px;
+  height: 120px;
+  object-fit: cover;
+  border-radius: 20px;
+  border: 2px dashed #ced4da;
+  padding: 4px;
+  background: #fff;
+}

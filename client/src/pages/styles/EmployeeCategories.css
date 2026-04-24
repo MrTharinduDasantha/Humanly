@@ -1,0 +1,12 @@
+.employee-categories-page {
+  min-height: calc(100vh - 70px);
+  background: linear-gradient(135deg, #f8f9fa 0%, #eef2f7 100%);
+}
+
+.employee-categories-page .card {
+  border-radius: 20px;
+}
+
+.employee-categories-page .table tbody tr:hover {
+  background-color: rgba(13, 110, 253, 0.04);
+}
