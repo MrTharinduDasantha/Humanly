@@ -90,7 +90,7 @@ PORT = 5000
 FRONTEND_URL = "http://localhost:5173"
 NODE_ENV = "development"
 JWT_SECRET = "humanly_website_secret_key"
-CLOUDINARY_URL = "Enter your cloudinary uri"
+CLOUDINARY_URL = "Enter your cloudinary url"
 ```
 
 **3. Client Setup (Frontend)**
