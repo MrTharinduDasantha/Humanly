@@ -82,7 +82,7 @@ Navigate to the server directory and install dependencies:
 cd server
 npm install
 ```
-* **Environment Variables (Server)**
+**Environment Variables (Server)**
 
 Create a .env file in the server folder and add the following configuration:
 ```bash
